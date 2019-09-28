@@ -1,12 +1,12 @@
 # UMNColloquium
 
-## Oct 14	Cray Colloquium: 3D Scene Understanding with a RGB-D Camera
-Colloquia
-Cray Distinguished Speaker Series
-October 14, 2019 - 11:15am to 12:15pm
-Thomas Funkhouser
-Affiliation: 
-Princeton/Google
+## Cray Colloquium: 3D Scene Understanding with a RGB-D Camera
+Colloquia 
+Cray Distinguished Speaker Series 
+October 14, 2019 - 11:15am to 12:15pm 
+Thomas Funkhouser 
+Affiliation:  
+Princeton/Google 
 Abstract: Three-dimensional scene understanding is important for computer systems
 that respond to and/or interact with the physical world, such as robotic
 manipulation, autonomous navigation, and augmented reality.  For
@@ -44,15 +44,15 @@ Electric, E. Lawrence Keyes Faculty Advancement Award, Google Faculty
 Research Awards, University Council Excellence in Teaching Awards, and a
 Sloan Fellowship.
 ## Data Systems for Human Data Interaction
-Colloquia
-September 23, 2019 - 11:15am to 12:15pm
-Remco Chang
-Affiliation: 
-Tufts University
-Location: 
+Colloquia 
+September 23, 2019 - 11:15am to 12:15pm 
+Remco Chang 
+Affiliation:  
+Tufts University 
+Location:   
 3-180 Keller Hall
-Host: 
-Evan Suma Rosenberg
+Host:  
+Evan Suma Rosenberg 
 Abstract: Visualization and visual analytics have become an integral part of data science as data become larger and more complex. With the democratization of data and data analysis, visualization is now used by scientists, domain experts, decision makers, and everyday citizens. Such widespread use of visualization has subsequently increased the challenge of designing generalizable systems that can suit the diverse needs of a wide audience. In this talk, I will present four research projects at the Visual Analytics Lab at Tufts (VALT) that aim to address the challenge. The four projects can be categorized into: (1) data systems for supporting interactive data exploration at scale, and (2) data systems that integrate automated machine learning (autoML) for model search and selection. The techniques used in these systems span disciplines, including database optimization, machine learning, and deep learning. However, the glue that ties these systems together is in their use and facilitation of human-in-the-loop data analysis.
  
 Bio: Remco Chang is an Associate Professor in the Computer Science Department at Tufts University. He received his BA from Johns Hopkins University in 1997 in Computer Science and Economics, MSc from Brown University in 2000, and PhD in Computer Science from UNC Charlotte in 2009. Prior to his PhD, he worked for Boeing developing real-time flight tracking and visualization software, followed by a position at UNC Charlotte as a research scientist. His current research interests include visual analytics, information visualization, HCI, and databases. His research has been funded by the NSF, DARPA, the Walmart Foundation, Army, Navy, DHS, MIT Lincoln Lab, and Draper. He has had best paper, best poster, and honorable mention awards at InfoVis, VAST, CHI, and VDA. He is currently an associate editor for the ACM TiiS journal and the papers chair for the IEEE Visual Analytics conference (2018-2019). He received the NSF CAREER Award in 2015.
