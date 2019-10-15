@@ -1,12 +1,11 @@
 # UMNColloquium
 
 ## Cray Colloquium: 3D Scene Understanding with a RGB-D Camera
-Colloquia 
-Cray Distinguished Speaker Series 
-October 14, 2019 - 11:15am to 12:15pm 
-Thomas Funkhouser 
-Affiliation:  
-Princeton/Google 
+ Cray Distinguished Speaker Series   
+October 14, 2019 - 11:15am to 12:15pm   
+Thomas Funkhouser   
+Affiliation:      
+Princeton/Google   
 Abstract: Three-dimensional scene understanding is important for computer systems
 that respond to and/or interact with the physical world, such as robotic
 manipulation, autonomous navigation, and augmented reality.  For
