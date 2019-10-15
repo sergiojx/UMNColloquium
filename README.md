@@ -58,5 +58,5 @@ Abstract: Visualization and visual analytics have become an integral part of dat
 Bio: Remco Chang is an Associate Professor in the Computer Science Department at Tufts University. He received his BA from Johns Hopkins University in 1997 in Computer Science and Economics, MSc from Brown University in 2000, and PhD in Computer Science from UNC Charlotte in 2009. Prior to his PhD, he worked for Boeing developing real-time flight tracking and visualization software, followed by a position at UNC Charlotte as a research scientist. His current research interests include visual analytics, information visualization, HCI, and databases. His research has been funded by the NSF, DARPA, the Walmart Foundation, Army, Navy, DHS, MIT Lincoln Lab, and Draper. He has had best paper, best poster, and honorable mention awards at InfoVis, VAST, CHI, and VDA. He is currently an associate editor for the ACM TiiS journal and the papers chair for the IEEE Visual Analytics conference (2018-2019). He received the NSF CAREER Award in 2015.
 
 ### Resources
-http://dsail.csail.mit.edu/index.php/kyrix/
+http://dsail.csail.mit.edu/index.php/kyrix/  
 https://www.cs.tufts.edu/~remco/
