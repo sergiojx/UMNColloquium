@@ -43,6 +43,23 @@ Award, ACM SIGGRAPH Academy, ACM Fellow, NSF Career Award, Emerson
 Electric, E. Lawrence Keyes Faculty Advancement Award, Google Faculty
 Research Awards, University Council Excellence in Teaching Awards, and a
 Sloan Fellowship.
+### Resources
+https://www.cs.princeton.edu/~funk/  
+## Automated Support for Improving Software Quality Before and After Release
+October 7, 2019 - 11:15am to 12:15pm  
+Mattia Fazzini  
+Affiliation:  
+CS&E  
+Location:   
+3-180 Keller Hall  
+Abstract: Due to the importance of software quality, companies invest a great number of resources in software verification, and in particular in testing. It is therefore crucial to develop and use testing approaches that are both effective and efficient. At the same time, because testing techniques cannot generally reveal all bugs, companies release software containing latent bugs. Additionally, the environment in which software operates changes quickly and these changes introduce new bugs. The ability to react effectively to reported latent bugs and changes to the environment is therefore also essential to resolve bugs, but the support for these tasks is still limited and based on mostly manual, human-intensive approaches. The overarching goal of my research is to improve software quality by devising novel techniques that account for software bugs before and after release.  
+
+In particular, this talk will present the work I did towards my goal in the context of mobile applications (or simply apps). The talk will cover a family of testing and maintenance techniques: Barista, DiffDroid, Yakusu, and AppEvolve. Barista records, encodes, and runs platform-independent test cases to help developers in testing apps. DiffDroid identifies inconsistencies in the behavior of an app running on different platforms and reports these inconsistencies to developers. Yakusu translates natural-language bug reports into test cases, so that developers can use the generated tests to debug failures caused by latent bugs and quickly fix their apps. AppEvolve accounts for bugs caused by changes to the environment; it does so by automatically updating API usages (i.e., interactions with the underlying environment) in an app based on how developers of other apps performed corresponding changes. I will conclude my talk with a discussion of open challenges and in-progress research work.  
+
+Bio: Mattia Fazzini is an Assistant Professor in the Computer Science & Engineering Department at University of Minnesota. His research interests lie primarily in the area of software engineering, with emphasis on techniques for improving software quality. The central theme of his research is the development of techniques for testing and maintenance of mobile applications. He is also interested in defining techniques for improving the security of software.  
+### Resources
+https://www-users.cs.umn.edu/~mfazzini/index.html  
+
 ## Data Systems for Human Data Interaction
 Colloquia 
 September 23, 2019 - 11:15am to 12:15pm 
