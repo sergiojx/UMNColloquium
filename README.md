@@ -101,3 +101,20 @@ Candes’ work lies at the interface of mathematics, statistics, information the
 http://statweb.stanford.edu/~candes/  
 https://statweb.stanford.edu/~candes/publications/  
 https://statweb.stanford.edu/~candes/software/  
+
+
+## Literate Computing for Healthcare and Data Science 
+February 7, 2020 - 11:15am to 12:15pm 
+Adam Rule 
+Affiliation:  
+Oregon Health & Science University 
+Location:  
+Keller Hall 3-180 
+Host:  
+Lana Yarosh 
+Abstract: Individuals and organizations increasingly rely on programming to analyze data in domains as diverse as healthcare, engineering, journalism, public policy, and research. Yet, these analyses are often fragile and messy, relying on untested custom scripts that are hard to understand or retrace. How might we help people work with data in ways that are more reproducible and robust? In this talk I will discuss how people use literate computing environments - which mix live computation, interactive visualizations, and explanatory text - to track, perform, and share data analyses. I will discuss how two literate computing environments (Jupyter Notebooks and clinical note editors) are used to support healthcare and data science, and how these tools might be redesigned to encourage more collaborative, diverse, and robust ways of working with data. 
+
+Bio: Adam Rule is a postdoctoral scholar in Medical Informatics and Clinical Epidemiology at Oregon Health & Science University. His research spans human-computer interaction, medical informatics, and cognitive science. Adam currently studies how people use literate computing environments - which mix live computation, interactive visualizations, and explanatory text - to support healthcare and data science. He studies how redesigning these environments can support more collaborative, reproducible, and robust analyses, even by novice programmers. Adam's papers have won best paper honorable mentions at the CHI and HRI conferences and informed the design of industry-leading analysis software, such as Jupyter Notebook. Adam received his PhD in Cognitive Science at UC San Diego where he worked with Jim Hollan in the Design Lab. 
+
+### Resources
+https://adamrule.com/ 
