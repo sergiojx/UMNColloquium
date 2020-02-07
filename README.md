@@ -80,16 +80,16 @@ https://www.cs.tufts.edu/~remco/
 
 ## Making the Black Box Effective: What Statistics Can Offer?
 
-Colloquia 
-Cray Distinguished Speaker Series 
-February 3, 2020 - 11:15am to 12:15pm 
-Emmanuel Candes 
-Affiliation:  
-Stanford 
-Location:  
-3-180 KH 
-Host:  
-Joe Konstan 
+Colloquia  
+Cray Distinguished Speaker Series  
+February 3, 2020 - 11:15am to 12:15pm  
+Emmanuel Candes  
+Affiliation:   
+Stanford  
+Location:   
+3-180 KH  
+Host:   
+Joe Konstan  
 Abstract: The ongoing data science revolution has been driven by impressive technological advances in the capture, storage, and processing of data, across a wide range of domains. Of particular interest is the recent progress in machine learning which provides us with many potentially effective tools to learn from datasets of ever increasing sizes and make useful predictions. For instance, this year, the Turing Award recognizes the impressive empirical success of deep learning models. Some of these tools have proven to be powerful and extremely complex at the same time. While many scientists and engineers are, for good reasons, slowly getting comfortable with the idea of using models that are extremely difficult to interpret — black boxes if you will — two things cannot be compromised upon. The first is the reproducibility of scientific results. If I use a black box to determine which genomic regions influence a trait, e.g. the susceptibility to autism, how do I make sure that my findings can be reproduced in follow-up studies?  How do I make sure they are robust and will not be rapidly dismissed? The second concerns the validity of predictions. As we are increasingly turning to machine learning systems to support human decisions, how do we determine their validity? If a learning algorithm predicts the GPA of a prospective college applicant, what guarantees do I have concerning the accuracy of this prediction? In this talk, we will review recent progress in statistics which addresses these concerns. I will present broad methodologies that can be wrapped around any black box as to produce results that can be trusted. I will do my best to highlight the level of creativity underpinning these methodologies.  
 
 Bio: Candes is the Barnum-Simons Chair in Mathematics and Statistics, and Professor of Electrical Engineering (by courtesy) at Stanford University. He graduated from the Ecole Polytechnique in 1993 with a degree in science and engineering, and received his Ph.D. in Statistics from Stanford University in 1998.
@@ -98,6 +98,6 @@ Candes is very grateful for the awards he has received over the years. These inc
 Candes’ work lies at the interface of mathematics, statistics, information theory, signal processing and scientific computing, and is about finding new ways of representing information and extracting information from complex data. For example, he helped launch the field known as compressed sensing, which has led to advances in the efficiency and accuracy of data collection and analysis, and can be used to significantly speed up MRI scanning times. In the last ten years, he has developed statistical techniques to address the reproducibility of scientific results and the validity of predictions made by very complex machine learning systems. 
 
 ### Resources
-http://statweb.stanford.edu/~candes/
-https://statweb.stanford.edu/~candes/publications/
-https://statweb.stanford.edu/~candes/software/
+http://statweb.stanford.edu/~candes/ 
+https://statweb.stanford.edu/~candes/publications/ 
+https://statweb.stanford.edu/~candes/software/ 
