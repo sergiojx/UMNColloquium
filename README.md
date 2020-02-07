@@ -98,6 +98,6 @@ Candes is very grateful for the awards he has received over the years. These inc
 Candes’ work lies at the interface of mathematics, statistics, information theory, signal processing and scientific computing, and is about finding new ways of representing information and extracting information from complex data. For example, he helped launch the field known as compressed sensing, which has led to advances in the efficiency and accuracy of data collection and analysis, and can be used to significantly speed up MRI scanning times. In the last ten years, he has developed statistical techniques to address the reproducibility of scientific results and the validity of predictions made by very complex machine learning systems. 
 
 ### Resources
-http://statweb.stanford.edu/~candes/ 
-https://statweb.stanford.edu/~candes/publications/ 
-https://statweb.stanford.edu/~candes/software/ 
+http://statweb.stanford.edu/~candes/  
+https://statweb.stanford.edu/~candes/publications/  
+https://statweb.stanford.edu/~candes/software/  
